@@ -1,2 +1,3 @@
 # apnacollage-demo
-this is my first gut repository
+this is my first git repository
+Authar- Aradhana
